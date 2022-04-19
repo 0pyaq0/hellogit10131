@@ -1,4 +1,4 @@
-// 개발자: 함기훈
+// 개발자: 심이진
 #include <stdio.h>
 
 int main(){
